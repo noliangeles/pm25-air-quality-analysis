@@ -33,7 +33,7 @@ PM2.5 pollution has well-documented links to cardiovascular and respiratory heal
 
 ## 📈 View HTML Report
 
-https://drive.google.com/file/d/1HLqHRXTlEoSHNM-YraxqS713ZLP0YiA2/view?usp=sharing
+https://noliangeles.github.io/pm25-air-quality-analysis/
 
 ## 👤 Author
 
