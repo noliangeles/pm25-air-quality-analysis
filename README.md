@@ -33,11 +33,11 @@ PM2.5 pollution has well-documented links to cardiovascular and respiratory heal
 
 ## 📈 View HTML Report
 
-👉 [Insert Google Drive or GitHub Pages link here if available]
+https://drive.google.com/file/d/1HLqHRXTlEoSHNM-YraxqS713ZLP0YiA2/view?usp=sharing
 
 ## 👤 Author
 
 Noli Angeles  
 Bachelor of Science in Data Science – Arizona State University (Online)  
-https://www.linkedin.com/in/noli-angeles/
-https://www.datascienceportfol.io/naangele
+- https://www.linkedin.com/in/noli-angeles/
+- https://www.datascienceportfol.io/naangele
